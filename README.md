@@ -68,8 +68,10 @@ Choose board size (2-8): 3
            3  *   *   *   *  
 
 Player A, enter your move (r1 c1 r2 c2) or 'q' to quit: 0 0 0 1
+
 Player B, enter your move (r1 c1 r2 c2) or 'q' to quit: 0 1 0 2
 ...
+
 Game Over! Player A: 2 points, Player B: 1 points.
 Player A wins!
 
