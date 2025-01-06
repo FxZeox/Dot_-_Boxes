@@ -37,7 +37,7 @@ To compile and run this game, you will need:
 
     Compile the code:
 
-   g++   dots_and_boxes.cpp  -o dots_and_boxes
+   g++   replacewithfilename.cpp  -o replacewithfilename
 
 Run the game:
 
