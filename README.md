@@ -37,7 +37,7 @@ To compile and run this game, you will need:
 
     Compile the code:
 
-g++   dots_and_boxes.cpp -o dots_and_boxes
+   g++   dots_and_boxes.cpp  -o dots_and_boxes
 
 Run the game:
 
@@ -54,17 +54,18 @@ Gameplay
 
 Sample Game Interaction
 
+
 Choose board size (2-8): 3
 --Dots and Boxes Game--
 
-   0   1   2   3  
-0  *   *   *   *  
-   |   |   |   |  
-1  *   *   *   *  
-   |   |   |   |  
-2  *   *   *   *  
-   |   |   |   |  
-3  *   *   *   *  
+              0   1   2   3  
+           0  *   *   *   *  
+              |   |   |   |  
+           1  *   *   *   *  
+              |   |   |   |  
+           2  *   *   *   *  
+              |   |   |   |  
+           3  *   *   *   *  
 
 Player A, enter your move (r1 c1 r2 c2) or 'q' to quit: 0 0 0 1
 Player B, enter your move (r1 c1 r2 c2) or 'q' to quit: 0 1 0 2
